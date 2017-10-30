@@ -3,7 +3,7 @@
 # Setup
 title:               eugolana blog
 tagline:             'where I come to rant'
-description:         'Thanks to eletroalex for this theme XD'
+description:         'words'
 url:                 'http://elotroalex.github.io'
 baseurl:             '/blog'
 
@@ -45,5 +45,3 @@ exclude:
 
 # Theme
 theme: "ed."
-
-
